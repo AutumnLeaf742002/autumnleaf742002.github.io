@@ -1,0 +1,38 @@
+body{
+
+    background-color: rgb(221, 221, 221);
+}
+
+.content-table{
+
+    width: 90vw;
+    margin: 0 auto;
+    font-size: 1.5vw;
+    margin-top: 20px;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 3px 3px 10px 3px black;
+}
+
+.thead-horario{
+
+    background: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.table-horario tbody tr{
+
+    color: black !important;
+    font-weight: 500;
+
+}
+
+h1{
+
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 3.5vw;
+}
