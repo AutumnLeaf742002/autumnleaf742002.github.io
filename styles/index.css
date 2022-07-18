@@ -36,3 +36,26 @@ h1{
     text-align: center;
     font-size: 3.5vw;
 }
+
+
+@media screen and (max-width: 500px) {
+
+    .content-table{
+
+        width: 99vw;
+        font-size: 3vw;
+        box-sizing: border-box;
+        padding: 5px;
+        border-radius: 0;
+    }
+
+    h1{
+
+        font-size: 5vw;
+    }
+
+    body{
+
+        background-color: rgb(241, 241, 241);
+    }
+}
